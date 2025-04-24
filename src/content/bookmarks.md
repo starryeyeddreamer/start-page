@@ -17,8 +17,8 @@ links:
     title: Drive
     src: drive.svg
     alt: drive-icon
-  - href: https://myanimelist.net/
-    title: Myanimelist
+  - href: https://mail.zoho.com
+    title: Zoho Mail
     src: myanimelist.svg
     alt: myanimelist-icon
   - href: https://discord.com/app
@@ -49,12 +49,12 @@ links:
     title: Github
     src: github.svg
     alt: github-icon
-  - href: https://mangadex.org/
-    title: MangaDex
+  - href: https://mail.zoho.com
+    title: Zoho Mail
     src: mangadex.svg
     alt: mangadex-icon
-  - href: https://aniwave.lv/
-    title: AniWave
+  - href: https://books.zoho.com
+    title: Zoho Books
     src: aniwave.svg
     alt: aniwave-icon
   - href: https://www.deepl.com/en/translator
