@@ -17,8 +17,8 @@ links:
     title: Drive
     src: drive.svg
     alt: drive-icon
-  - href: https://mail.zoho.com
-    title: Zoho Mail
+  - href: https://crm.zoho.com
+    title: Zoho CRM
     src: myanimelist.svg
     alt: myanimelist-icon
   - href: https://discord.com/app
