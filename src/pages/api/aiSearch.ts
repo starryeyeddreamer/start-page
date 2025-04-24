@@ -3,7 +3,7 @@ export const prerender = false
 import type { APIRoute } from "astro";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const apiKey = import.meta.env.GEMINI_API_KEY;
+const apiKey = import.meta.env.AIzaSyBT9tdKA8f6DI3eRUjSi-Bmy1IOF-qgz4Y;
 const genAI = new GoogleGenerativeAI(apiKey);
 const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
