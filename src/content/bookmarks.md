@@ -57,8 +57,8 @@ links:
     title: Zoho Books
     src: aniwave.svg
     alt: aniwave-icon
-  - href: https://www.deepl.com/en/translator
-    title: DeepL
+  - href: https://gemini.google.com
+    title: Gemini
     src: deepl.svg
     alt: deepl-icon
   - href: https://chatgpt.com/
