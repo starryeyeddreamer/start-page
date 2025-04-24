@@ -45,7 +45,7 @@ links:
     title: DeepSeek
     src: deepseek.svg
     alt: deepseek-icon
-  - href: https://github.com/ahmetdem
+  - href: https://github.com/starryeyeddreamer
     title: Github
     src: github.svg
     alt: github-icon
@@ -77,8 +77,8 @@ links:
     title: Instagram
     src: instagram.svg
     alt: instagram-icon
-  - href: https://tr.pinterest.com/
-    title: Pinterest
+  - href: https://workdrive.zoho.com
+    title: Zoho Workdrive
     src: pinterest.svg
     alt: pinterest-icon
 ---
