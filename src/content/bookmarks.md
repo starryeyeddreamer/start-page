@@ -19,7 +19,7 @@ links:
     alt: drive-icon
   - href: https://crm.zoho.com
     title: Zoho CRM
-    src: CRM.svg
+    src: crm.svg
     alt: crm-icon
   - href: https://discord.com/app
     title: Discord
@@ -51,12 +51,12 @@ links:
     alt: github-icon
   - href: https://mail.zoho.com
     title: Zoho Mail
-    src: email.svg
-    alt: email-icon
+    src: zohomail.svg
+    alt: zohomail-icon
   - href: https://books.zoho.com
     title: Zoho Books
-    src: aniwave.svg
-    alt: aniwave-icon
+    src: books.svg
+    alt: zohobooks-icon
   - href: https://gemini.google.com
     title: Gemini
     src: gemini.svg
