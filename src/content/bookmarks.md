@@ -79,6 +79,6 @@ links:
     alt: instagram-icon
   - href: https://workdrive.zoho.com
     title: Zoho Workdrive
-    src: pinterest.svg
-    alt: pinterest-icon
+    src: workdrive.svg
+    alt: workdrive-icon
 ---
