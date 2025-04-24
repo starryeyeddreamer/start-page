@@ -25,8 +25,8 @@ links:
     title: Discord
     src: discord.svg
     alt: discord-icon
-  - href: https://www.twitch.tv/
-    title: Twitch
+  - href: https://user.blocksite.co/options/BLOCK_SITES
+    title: Blocksite
     src: twitch.svg
     alt: twitch-icon
   - href: https://web.whatsapp.com/
