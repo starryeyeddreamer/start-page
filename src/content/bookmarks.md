@@ -19,16 +19,16 @@ links:
     alt: drive-icon
   - href: https://crm.zoho.com
     title: Zoho CRM
-    src: myanimelist.svg
-    alt: myanimelist-icon
+    src: CRM.svg
+    alt: crm-icon
   - href: https://discord.com/app
     title: Discord
     src: discord.svg
     alt: discord-icon
   - href: https://user.blocksite.co/options/BLOCK_SITES
     title: Blocksite
-    src: twitch.svg
-    alt: twitch-icon
+    src: shield.svg
+    alt: shield-icon
   - href: https://web.whatsapp.com/
     title: WhatsApp
     src: whatsapp.svg
@@ -51,16 +51,16 @@ links:
     alt: github-icon
   - href: https://mail.zoho.com
     title: Zoho Mail
-    src: mangadex.svg
-    alt: mangadex-icon
+    src: email.svg
+    alt: email-icon
   - href: https://books.zoho.com
     title: Zoho Books
     src: aniwave.svg
     alt: aniwave-icon
   - href: https://gemini.google.com
     title: Gemini
-    src: deepl.svg
-    alt: deepl-icon
+    src: gemini.svg
+    alt: gemini-icon
   - href: https://chatgpt.com/
     title: ChatGpt
     src: chatgpt.svg
