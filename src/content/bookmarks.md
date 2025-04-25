@@ -29,10 +29,10 @@ links:
     title: Blocksite
     src: shield.svg
     alt: shield-icon
-  - href: https://web.whatsapp.com/
-    title: WhatsApp
-    src: whatsapp.svg
-    alt: whatsapp-icon
+  - href: https://lichess.org/
+    title: Lichess
+    src: lichess.svg
+    alt: lichess-icon
   - href: https://www.reddit.com/
     title: Reddit
     src: reddit.svg
