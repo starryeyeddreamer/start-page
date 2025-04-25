@@ -41,10 +41,10 @@ links:
     title: X
     src: x.svg
     alt: x-icon
-  - href: https://chat.deepseek.com/
-    title: DeepSeek
-    src: deepseek.svg
-    alt: deepseek-icon
+  - href: https://apollo.io/
+    title: Apollo
+    src: apollo.svg
+    alt: apollo-icon
   - href: https://github.com/starryeyeddreamer
     title: Github
     src: github.svg
