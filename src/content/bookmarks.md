@@ -5,10 +5,10 @@ links:
     title: Gmail
     src: gmail.svg
     alt: gmail-icon
-  - href: https://photos.google.com
-    title: Photos
-    src: ./gphotos.svg
-    alt: google-photos-icon
+  - href: https://notion.so
+    title: Notion
+    src: notion.svg
+    alt: notion-icon
   - href: https://youtube.com
     title: YouTube
     src: youtube.svg
@@ -21,10 +21,10 @@ links:
     title: Zoho CRM
     src: crm.svg
     alt: crm-icon
-  - href: https://discord.com/app
-    title: Discord
-    src: discord.svg
-    alt: discord-icon
+  - href: https://www.inoreader.com/
+    title: Inoreader
+    src: inoreader.svg
+    alt: inoreader-icon
   - href: https://user.blocksite.co/options/BLOCK_SITES
     title: Blocksite
     src: shield.svg
