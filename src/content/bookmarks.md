@@ -65,10 +65,10 @@ links:
     title: ChatGpt
     src: chatgpt.svg
     alt: chatgpt-icon
-  - href: https://z-library.sk/
-    title: ZLibrary
-    src: zlibrary.svg
-    alt: zlibrary-icon
+  - href: https://read.amazon.com/kindle-library
+    title: Kindle
+    src: kindle.svg
+    alt: kindle-icon
   - href: https://www.linkedin.com/in/ahmetdem/
     title: Linkedin
     src: linkedin.svg
