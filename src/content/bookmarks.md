@@ -37,10 +37,10 @@ links:
     title: Reddit
     src: reddit.svg
     alt: reddit-icon
-  - href: https://x.com/home
-    title: X
-    src: x.svg
-    alt: x-icon
+  - href: https://www.duolingo.com/learn
+    title: duolingo
+    src: duolingo.svg
+    alt: duolingo-icon
   - href: https://apollo.io/
     title: Apollo
     src: apollo.svg
