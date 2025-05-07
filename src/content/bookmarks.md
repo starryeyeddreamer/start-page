@@ -73,10 +73,10 @@ links:
     title: Linkedin
     src: linkedin.svg
     alt: linkedin-icon
-  - href: https://www.instagram.com/
-    title: Instagram
-    src: instagram.svg
-    alt: instagram-icon
+  - href: https://www.msn.com/en-us/weather/
+    title: Weather
+    src: weather.svg
+    alt: weather-icon
   - href: https://workdrive.zoho.com
     title: Zoho Workdrive
     src: workdrive.svg
