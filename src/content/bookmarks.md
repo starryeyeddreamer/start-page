@@ -81,4 +81,20 @@ links:
     title: Zoho Workdrive
     src: workdrive.svg
     alt: workdrive-icon
+    href: https://www.spotify.com
+    title: Spotify
+    src: spotify.svg
+    alt: spotify-icon
+    href: https://workdrive.zoho.com
+    title: Zoho Workdrive
+    src: workdrive.svg
+    alt: workdrive-icon
+    href: https://workdrive.zoho.com
+    title: Zoho Workdrive
+    src: workdrive.svg
+    alt: workdrive-icon
+    href: https://workdrive.zoho.com
+    title: Zoho Workdrive
+    src: workdrive.svg
+    alt: workdrive-icon
 ---
