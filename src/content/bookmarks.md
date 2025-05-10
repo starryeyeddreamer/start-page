@@ -86,7 +86,7 @@ links:
     src: spotify.svg
     alt: spotify-icon
   - href: https://news.google.com
-    title: Google News
+    title: News
     src: news.svg
     alt: news-icon
 ---
