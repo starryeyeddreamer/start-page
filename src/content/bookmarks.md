@@ -90,7 +90,7 @@ links:
     src: news.svg
     alt: news-icon
   - href: https://ads.google.com
-    title: Google Ads
+    title: Adwords
     src: adwords.svg
     alt: adwords-icon
 ---
