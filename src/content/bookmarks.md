@@ -89,4 +89,8 @@ links:
     title: News
     src: news.svg
     alt: news-icon
+  - href: https://ads.google.com
+    title: Google Ads
+    src: adwords.svg
+    alt: adwords-icon
 ---
