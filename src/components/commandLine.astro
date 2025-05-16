@@ -254,6 +254,8 @@ const name = "josh";
       window.location.href = `https://google.com/search?q=site:reddit.com ${value.replace("r:", "")}`;
     } else if (value.startsWith("m:")) {
       window.location.href = `https://google.com/search?q=site:myanimelist.net ${value.replace("m:", "")}`;
+    } else if (value.startsWith("i:")) {
+      window.location.href = `https://www.google.com/search?tbm=isch&q=${value.replace("i:", "")}`;
     } else if (value.startsWith("a:")) {
       const query = value.replace("a:", "").trim();
       try {
