@@ -258,8 +258,8 @@ const name = "josh";
       window.location.href = `https://www.google.com/search?tbm=isch&q=${value.replace("i:", "")}`;
     } else if (value.startsWith("y:")) {
       window.location.href = `https://www.youtube.com/results?search_query=${value.replace("y:", "")}`;
-    } else if (value.startsWith("a:")) {
-      const query = value.replace("a:", "").trim();
+    } else if (value.startsWith("ai:")) {
+      const query = value.replace("ai:", "").trim();
       try {
         // Get search results AND AI recommendation
         const res = await fetch(
