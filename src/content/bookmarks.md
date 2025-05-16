@@ -93,4 +93,8 @@ links:
     title: Adwords
     src: adwords.svg
     alt: adwords-icon
+  - href: https://wix.com
+    title: Wix
+    src: wix.svg
+    alt: wix-icon
 ---
