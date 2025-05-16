@@ -61,10 +61,10 @@ links:
     title: Gemini
     src: gemini.svg
     alt: gemini-icon
-  - href: https://chatgpt.com/
-    title: ChatGpt
-    src: chatgpt.svg
-    alt: chatgpt-icon
+  - href: https://messages.google.com/
+    title: Messages
+    src: messages.svg
+    alt: messages-icon
   - href: https://read.amazon.com/kindle-library
     title: Kindle
     src: kindle.svg
