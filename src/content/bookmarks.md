@@ -97,4 +97,16 @@ links:
     title: Wix
     src: wix.svg
     alt: wix-icon
+  - href: https://www.hoopladigital.com
+    title: Hoopla
+    src: hoopla.svg
+    alt: hoopla-icon
+  - href: https://libbyapp.com
+    title: Libby
+    src: libby.svg
+    alt: libby-icon
+  - href: https://divineoffice.org/
+    title: The Hours
+    src: hours.svg
+    alt: hours-icon
 ---
