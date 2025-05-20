@@ -106,7 +106,7 @@ links:
     src: libby.svg
     alt: libby-icon
   - href: https://divineoffice.org/
-    title: The Hours
+    title: Hours
     src: hours.svg
     alt: hours-icon
 ---
