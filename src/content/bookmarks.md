@@ -109,4 +109,8 @@ links:
     title: Hours
     src: hours.svg
     alt: hours-icon
+  - href: https://meeting.zoho.com/
+    title: Zoho Meeting
+    src: meeting.svg
+    alt: meeting-icon
 ---
