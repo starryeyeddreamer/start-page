@@ -106,7 +106,7 @@ links:
     src: libby.svg
     alt: libby-icon
   - href: https://divineoffice.org/
-    title: Hours
+    title: LOH
     src: hours.svg
     alt: hours-icon
   - href: https://meeting.zoho.com/
