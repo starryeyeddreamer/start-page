@@ -77,10 +77,10 @@ links:
     title: Weather
     src: weather.svg
     alt: weather-icon
-  - href: https://workdrive.zoho.com
-    title: Zoho Workdrive
-    src: workdrive.svg
-    alt: workdrive-icon
+  - href: https://raindrop.io
+    title: Raindrop
+    src: raindrop.svg
+    alt: raindrop-icon
   - href: https://www.spotify.com
     title: Spotify
     src: spotify.svg
